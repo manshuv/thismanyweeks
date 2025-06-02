@@ -77,7 +77,7 @@ export default function Home() {
           className="text-center space-y-4"
         >
           <h1 className="text-4xl md:text-5xl font-light tracking-tight">Memento Vivere</h1>
-          <p className="text-lg md:text-xl text-gray-600 font-light">Visualize your remaining time. Make it count.</p>
+          <p className="text-lg md:text-xl text-gray-600 font-light">Make each day your masterpiece.</p>
         </motion.div>
 
         <div className="flex flex-col md:flex-row gap-4 items-center justify-center">
